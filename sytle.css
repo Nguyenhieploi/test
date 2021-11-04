@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+  background-color: #000;    
+  margin: 0;
+  overflow: hidden;
+  background-repeat: no-repeat;
+}
+.iloveu{
+  padding-top: 10px;
+  display: block;
+  background-color:palevioletred;
+  display:flex;
+  justify-content:center;
+}
+.iloveu h1{
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+}
